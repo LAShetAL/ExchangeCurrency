@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ryPiAPQrNGw9oyS7wHQaN/AgsMY7loV0bGx6bvgGYuVIcQCQFwvquGMFhH7RTRGD6RewB1ax4WE5LMaXgMB1A==",
+  "success": true,
+  "projectFilePath": "E:\\Belgeler\\Projeler\\Csharp\\ExchangeCurrency\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ipsissimus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Ipsissimus\\.nuget\\packages\\restsharp\\110.2.1-alpha.0.3\\restsharp.110.2.1-alpha.0.3.nupkg.sha512",
+    "C:\\Users\\Ipsissimus\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ipsissimus\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
